@@ -2,4 +2,4 @@
 This is where I do animations with code! Wowo!
 
 ## Links
-Go to scollet1.github.io/Anmiations to view the results!
+Go to https://scollet1.github.io/Animations/ to view the results!
